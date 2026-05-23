@@ -1,0 +1,8 @@
+===== TEST EXECUTION STARTED =====
+Using local ChromeDriver: C:\Users\Advith\OneDrive\Documents\Automated_Functional_Testing_Project\Automation\chromedriver-win64\chromedriver.exe
+Opening saucedemo.com...
+Starting negative login tests...
+Negative test: should show no match error (user: standard_user)
+Error displayed: Epic sadface: Username and password do not match any user in this service
+Negative test PASSED: Expected error shown
+Negative test: should show locked out error (user: locked_out_user)
